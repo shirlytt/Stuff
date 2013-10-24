@@ -55,7 +55,7 @@ sd(breps)
 
 ###############################################################################
 # Markov Chain Code
-# Simple transition kernel: 
+# Simple transition kernel: (proposed distribution??)
 # X_{t+1} | x_{t} ~ N(\rho*x_{t},\sigma^{2})
 
 rho <- 0.5
