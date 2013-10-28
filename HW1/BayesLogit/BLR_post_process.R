@@ -108,6 +108,7 @@ cat("\nCoverage table:\n\n")
 print(round(p_table,3))
 
 ## Print latex output in convenient form:
+install.packages('~/xtable_1.7-1.tar.gz',repo=NULL)
 library(xtable)
 
 p_keep <- c(1,5,10,25,50,75,90,95,99)
