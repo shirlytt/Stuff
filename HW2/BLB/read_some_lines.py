@@ -1,6 +1,10 @@
 import csv
 import sys
 import numpy as np
+<<<<<<< HEAD
+=======
+
+>>>>>>> upstream/master
 ## 
 #    filename: name of csv file
 #     indices: array of row numbers to select
