@@ -6,7 +6,7 @@
 
 #include<stdio.h>
 #include<cuda.h>
-
+#include<stdlib.h>
 #define PRINT_RESULT 1
 #define COS_THREAD_CNT 512
 #define N 1000000
